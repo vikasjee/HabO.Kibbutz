@@ -27,18 +27,16 @@
             {"name": "ChoreoBoard 5V 16MHz OTA Std - Opti"},
             {"name": "ChoreoBoard 5V 16MHz Serial Std"},
             {"name": "ChoreoBoard 5V 16MHz OTA-Opti Adv w/ Sensor Ports"},
-            
             {"name": "ChoreoBoard 5V 8MHz DualOpti OTA SecPRO w/ EEPROM n SHA"},
             {"name": "ChoreoBoard 5V 8MHz DualOpti OTA PRO w/ EEPROM"},
             {"name": "ChoreoBoard 5V 8MHz OTA Std - Opti"},
             {"name": "ChoreoBoard 5V 8MHz Serial Std"},
             {"name": "ChoreoBoard 5V 8MHz OTA-Opti Adv w/ Sensor Ports"},
-            
-            {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz DualOpti OTA SecPRO w/ EEPROM n SHA"},
-            {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz DualOpti OTA PRO w/ EEPROM"},
-            {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz OTA Std - Opti"},
-            {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz Serial Std"},
-            {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz OTA-Opti Adv w/ Sensor Ports"}
+            {"name": "ChoreoBoard BattOptim 3.3V 8MHz DualOpti OTA SecPRO w/ EEPROM n SHA"},
+            {"name": "ChoreoBoard BattOptim 3.3V 8MHz DualOpti OTA PRO w/ EEPROM"},
+            {"name": "ChoreoBoard BattOptim 3.3V 8MHz OTA Std - Opti"},
+            {"name": "ChoreoBoard BattOptim 3.3V 8MHz Serial Std"},
+            {"name": "ChoreoBoard BattOptim 3.3V 8MHz OTA-Opti Adv w/ Sensor Ports"}
           ],
           "toolsDependencies": [
             {
