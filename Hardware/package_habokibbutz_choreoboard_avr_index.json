@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/mysensors/ArduinoBoards/raw/master/boards/mysensors-avr-1.0.0.tar.bz2",
           "checksum": "SHA-256:a2659d411494b2902e9e07365a02833db37814c1a0d988e4b550a04285910756",
-          "name": "hk AVR Boards",
+          "name": "HabO.Kibbutz AVR Boards",
           "version": "1.0.0",
           "architecture": "avr",
           "archiveFileName": "mysensors-avr-1.0.0.tar.bz2",
