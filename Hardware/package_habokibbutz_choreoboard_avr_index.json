@@ -1,28 +1,31 @@
 {
   "packages": [
     {
-      "name": "habokibbutz Boards",
-      "maintainer": "vikasjee Developer",
-      "websiteURL": "https://github.com/vikasjee/myboard",
+      "name": "Habo.Kibbutz",
+      "maintainer": "vikasjee",
+      "websiteURL": "https://github.com/vikasjee/HabO.Kibbutz/Hardware",
       "email": "vikasjee@cloutlattice.com",
       "help": {
         "online": "http://janedeveloper.org/forum/myboard"
       },
       "platforms": [
         {
-          "name": "Habo.Kibbutz Board",
+          "name": "Habo.Kibbutz Boards",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "0.0.09",
           "category": "Contributed",
           "help": {
             "online": "http://janedeveloper.org/forum/myboard"
           },
-          "url": "https://vikasjee.github.io/choreoboard/choreoboard-1.0.0.zip",
-          "archiveFileName": "choreoboard-1.0.0.zip",
-          "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
+          "url": "https://vikasjee.github.io/choreoboard/choreoboard-0.0.09.zip",
+          "archiveFileName": "choreoboard-0.0.09.zip",
+          "checksum": "SHA-256: ",
           "size": "15005",
           "boards": [
-            {"name": "ChoreoBoard"}
+            {"name": "ChoreoBoard SecPRO w/ EEPROM n SHA"},
+            {"name": "ChoreoBoard PRO w/ EEPROM"},
+            {"name": "ChoreoBoard Std"},
+            {"name": "ChoreoBoard Adv w/ Sensor Ports"}
           ],
           "toolsDependencies": [
             {
@@ -36,12 +39,11 @@
               "version": "6.0.1-arduino5"
             }
           ]
-        },
-        
-          ]
         }
-      ],
-      "tools":[]
+      ]
+    }
+  ],
+  "tools":[]
     }
   ]
 }
