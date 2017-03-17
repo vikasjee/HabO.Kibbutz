@@ -38,7 +38,7 @@
             {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz DualOpti OTA PRO w/ EEPROM"},
             {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz OTA Std - Opti"},
             {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz Serial Std"},
-            {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz OTA-Opti Adv w/ Sensor Ports"},
+            {"name": "ChoreoBoard Batt Optimized 3.3V 8MHz OTA-Opti Adv w/ Sensor Ports"}
           ],
           "toolsDependencies": [
             {
