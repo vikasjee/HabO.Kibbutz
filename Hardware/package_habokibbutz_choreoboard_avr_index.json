@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/vikasjee/HabO.Kibbutz/tree/master/Hardware/ChoreoBoards/habokibbutz-Choreoboard-avr-1.0.tar.bz2",
           "archiveFileName": "choreoboard-1.0.0.zip",
-          "checksum": "SHA-256: ",
-          "size": "15005",
+          "checksum": "SHA-256:7c755472d55e3e1670dbd4721ee6db9dd8f3b9727fda2412e27f1db01f43f892",
+          "size": "144042",
           "boards": [
             {"name": "ChoreoBoard 5V 16MHz DualOpti OTA SecPRO w/ EEPROM n SHA"},
             {"name": "ChoreoBoard 5V 16MHz DualOpti OTA PRO w/ EEPROM"},
